@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = user-contact-data
+build_property.ProjectDir = C:\Personal Folder\AWS-Project\AWS_S3_Trigger_Lambda\user-contact-data\
